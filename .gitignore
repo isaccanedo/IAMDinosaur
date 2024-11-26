@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+robotjs
+
+# Saved files
+genomes/*
+!genomes/.gitkeep
+!genomes/ninja.json
